@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .header-text {
+    font-size: 1.2em;
+    color: #555;
+  }
+  body {
+    background-color: #f0f0f0;
+  }
+}
